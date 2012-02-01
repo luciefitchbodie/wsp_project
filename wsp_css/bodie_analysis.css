@@ -1,0 +1,18 @@
+body{
+background-image: url("../wsp_images/background.jpg");
+margin: 0 auto;
+font: 100% /1.5 "helvetica neue","franklin gothic medium",sans-serif; /*16px*/
+}
+	h1{
+	color: #424344;
+	padding-left: 30px;
+	}
+	h2{
+	color: #424344;
+	padding-left: 30px;
+	}
+	p{
+	color: #717577;
+	padding-left: 30px;
+	}
+	
